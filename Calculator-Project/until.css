@@ -1,0 +1,22 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .bg-red{
+    
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fcalculator-backgrounds&psig=AOvVaw05UmxIbb0SKbx3JAPyA6qE&ust=1723357434472000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIisrfHk6YcDFQAAAAAdAAAAABAE")
+  }
+  .mx-auto{
+  
+    margin:auto;
+    
+  }
+  .flex{
+    display: flex;  
+  }
+  .flex-col{
+    flex-direction: column;
+  }
+  .items-center{
+    align-items: center;
+  }
